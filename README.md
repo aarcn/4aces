@@ -59,7 +59,7 @@ $ java fourAces
 ```
 
 > **Note**
-> The amount of 52-card decks simulated is set to 100 by default. You will need to manually increase the integer value to get better probability results.
+> The amount of 52-card decks simulated is set to 100000 by default. You will need to manually increase the integer value to get better probability results.
 
 
 ## Built With
