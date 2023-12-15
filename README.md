@@ -65,7 +65,7 @@ $ java fourAces
 
 ## Results
 
-https://docs.google.com/spreadsheets/d/1N1oMiIZTjW8CBoTMPEyUPePqlMFp9b2gbL3yTD2_hTs/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1N1oMiIZTjW8CBoTMPEyUPePqlMFp9b2gbL3yTD2_hTs/
 
 
 ## Built With
