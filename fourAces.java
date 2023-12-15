@@ -3,7 +3,7 @@ import java.util.Map;
 
 public class fourAces {
     private static final int cards = 52; // cards in each deck
-    private static final int deckAmount = 10000; // amount of decks
+    private static final int deckAmount = 100000; // amount of decks
     private static final int whichAce = 4; // nth ace
 
     public static void main(String[] args) {
@@ -54,7 +54,8 @@ public class fourAces {
         System.out.println("The most likely position of the fourth ace is: " + mostFrequentPosition);
 
         // Print all frequencies
-        System.out.println("\nFrequency of each position:");
+        System.out.println("\nFrequency of each position");
+        System.out.println("===========================");
         for (Map.Entry<Integer, Integer> entry : positionFrequency.entrySet()) {
             System.out.println("Position " + entry.getKey() + ": " + entry.getValue());
         }
