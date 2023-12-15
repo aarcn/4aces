@@ -19,10 +19,11 @@
   <a href="#background">Background</a> •
   <a href="#purpose">Purpose</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#built-with">Built With</a>
+  <a href="#results">Results</a> •
+  <a href="#built-with">Built with</a>
 </p>
 
-![screenshot](https://i.imgur.com/bKrEigi.png)
+![screenshot](https://i.imgur.com/sgI4PPb.png)
 
 ## Background
 
@@ -60,6 +61,11 @@ $ java fourAces
 
 > **Note**
 > The amount of 52-card decks simulated is set to 100000 by default. You will need to manually increase the integer value to get better probability results.
+
+
+## Results
+
+https://docs.google.com/spreadsheets/d/1N1oMiIZTjW8CBoTMPEyUPePqlMFp9b2gbL3yTD2_hTs/edit?usp=sharing
 
 
 ## Built With
