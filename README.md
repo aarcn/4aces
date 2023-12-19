@@ -68,6 +68,11 @@ $ java fourAces
 https://docs.google.com/spreadsheets/d/1N1oMiIZTjW8CBoTMPEyUPePqlMFp9b2gbL3yTD2_hTs/
 
 
+## Personal Comments
+
+I was originally going to use this for my IB Math Applications and Interpretations HL course as the focal point of my Internal Assessment, but once it was denied, since no HL topics could support the investigation, I still decided to explore this paradox independently. This would make for an interesting SL IA that could integrate Topic 4 (Statistics & Probability). Best of luck!
+
+
 ## Built With
 
 JAVA
